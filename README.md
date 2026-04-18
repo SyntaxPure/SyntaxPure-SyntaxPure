@@ -24,7 +24,6 @@ Currently focused on improving my skills in **data science, AI and predictive mo
 ### Programming
 - Python
 - SQL
-- R
 
 ### Data Science
 - Data Cleaning
